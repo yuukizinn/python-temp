@@ -1,0 +1,14 @@
+vpc_id:vpc-0ad896c65a96c4754
+private_subnet_id_list:['subnet-0bf130cccef7f3e70', 'subnet-0b674394ecc03e30f']
+public_subnet_id:subnet-0dcbe0411cfd6f6bb
+internet_gateway_id:igw-07b02d474f1ba3ee9
+route_table_id:rtb-0f008fb377d84e047
+create_route:{'Return': True, 'ResponseMetadata': {'RequestId': '3778381d-d285-45ac-9511-a569dcbecabc', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '3778381d-d285-45ac-9511-a569dcbecabc', 'cache-control': 'no-cache, no-store', 'strict-transport-security': 'max-age=31536000; includeSubDomains', 'content-type': 'text/xml;charset=UTF-8', 'content-length': '223', 'date': 'Tue, 05 Jul 2022 02:20:58 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+security_group_id:sg-0bfeaf30642d23805
+vpc_id:vpc-0d76e7257b5a6e1c3private_subnet_id_list:['subnet-005dad7ddcee07ecd', 'subnet-0c73ea6166bf09851']
+public_subnet_id:subnet-09ce9f5bb9e1c1d21
+internet_gateway_id:igw-07c9ee7cf7b43c1c6
+route_table_id:rtb-0f6fb5b33dbfa9b3d
+create_route:{'Return': True, 'ResponseMetadata': {'RequestId': '957e5e9c-584b-4da6-ab78-ad6d75d76969', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amzn-requestid': '957e5e9c-584b-4da6-ab78-ad6d75d76969', 'cache-control': 'no-cache, no-store', 'strict-transport-security': 'max-age=31536000; includeSubDomains', 'content-type': 'text/xml;charset=UTF-8', 'content-length': '223', 'date': 'Wed, 06 Jul 2022 04:00:28 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+security_group_id:sg-07519acb396e07293
+key_name:test-key.pem
